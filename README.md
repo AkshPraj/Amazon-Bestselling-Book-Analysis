@@ -14,7 +14,7 @@ This project analyzes the performance of Amazon's bestselling books, focusing on
 ## Tech Stack
 - Microsoft Excel: Data cleaning, analysis, and visualization.
 
-
+## Steps
 To achieve the goal of this project, I have completed several tasks.
 
 ✅ First, Download The Dataset from Kaggle.
