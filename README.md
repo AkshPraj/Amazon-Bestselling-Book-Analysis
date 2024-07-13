@@ -15,7 +15,7 @@ This project analyzes the performance of Amazon's bestselling books, focusing on
 - Microsoft Excel: Data cleaning, analysis, and visualization.
 
 ## Dashboard
-
+![](https://github.com/AkshPraj/Amazon-Bestselling-Book-Analysis/blob/main/img/dash.PNG)
 
 ## Key insights :
 
