@@ -1,5 +1,5 @@
 # Amazon-Bestselling-Book-Analysis
-
+![](https://github.com/AkshPraj/Amazon-Bestselling-Book-Analysis/blob/main/img/amazon-books-logo.jpg)
 ## Project Description
 
 This project analyzes the performance of Amazon's bestselling books, focusing on various aspects such as pricing trends, user ratings, and review distributions. The goal is to derive meaningful insights that can help authors and publishers make informed decisions to improve their book sales and overall presence on Amazon.
@@ -14,22 +14,8 @@ This project analyzes the performance of Amazon's bestselling books, focusing on
 ## Tech Stack
 - Microsoft Excel: Data cleaning, analysis, and visualization.
 
-## Steps
-To achieve the goal of this project, I have completed several tasks.
+## Dashboard
 
-✅ First, Download The Dataset from Kaggle.
-
-✅ Understanding the downloaded dataset properly.
-
-✅ Then I Checked whether the data sets contain null values, duplicates values, spaces, and special characters and cleaned it.
-
-✅ This Excel Sheet Contains Cleaned and Organized Data.
-
-✅ Add one columns in this data set. Created custom columns (Rating) to extract additional information from the dataset, with the help of IF Formulas.
-
-✅ Created Pivot tables, different Charts, and Graphs 📊 to summarise the data and visually get quick information and make it easier to understand.
-
-✅ Finally, I built a dashboard in Excel with inserting slicers, which allows users to interact with the data and view it in different ways.
 
 ## Key insights :
 
